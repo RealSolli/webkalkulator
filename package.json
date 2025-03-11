@@ -1,0 +1,11 @@
+{
+  "name": "web-kalkulator",
+  "version": "1.0.0",
+  "description": "skoleprosjekt",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC"
+}
